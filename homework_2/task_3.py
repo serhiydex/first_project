@@ -1,1 +1,5 @@
-print('#'*9, end='\n', '#\t\t\t\t\t\t\t#')
+print('#'*9)
+print('#\t\t#')
+print('#\t\t#')
+print('#\t\t#')
+print('#'*9)
