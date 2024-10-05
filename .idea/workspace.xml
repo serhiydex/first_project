@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67dcb0bf-9ed8-4a9b-9e12-37f4e07756ae" name="Changes" comment="task 4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="homework_4" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="serhiy_mariuk &lt;tyhyi@protonmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework_4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;serhiydex&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:serhiydex/first_project.git&quot;,
+    &quot;accountId&quot;: &quot;09b913e5-7a05-4c00-8e20-b65fd7fc65c8&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/example.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mhcWI8CWQrviEZGVH3ww22bHc3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.example.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/dex/PycharmProjects/first_project",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67dcb0bf-9ed8-4a9b-9e12-37f4e07756ae" name="Changes" comment="" />
+      <created>1727532279993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727532279993</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add random to files)">
+      <option name="closed" value="true" />
+      <created>1727548920204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727548920204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add random to files)">
+      <option name="closed" value="true" />
+      <created>1727549032588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727549032588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add random to files)">
+      <option name="closed" value="true" />
+      <created>1727549045448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727549045448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add random to files)">
+      <option name="closed" value="true" />
+      <created>1727549070429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727549070429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add random to files)">
+      <option name="closed" value="true" />
+      <created>1727549076383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727549076383</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first homework">
+      <option name="closed" value="true" />
+      <created>1727615339200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727615339200</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1727726476612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727726476612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1727727312055</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727312055</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1727727375361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727375361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1727727709453</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727709453</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1727896434107</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727896434107</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1727896498036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727896498036</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1727896764813</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727896764813</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1727897508251</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727897508251</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1728147088949</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728147088949</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1728147348449</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728147348449</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1728151815294</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728151815294</updated>
+    </task>
+    <task id="LOCAL-00018" summary="task 2">
+      <option name="closed" value="true" />
+      <created>1728153426401</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728153426401</updated>
+    </task>
+    <task id="LOCAL-00019" summary="task 2">
+      <option name="closed" value="true" />
+      <created>1728153802232</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728153802232</updated>
+    </task>
+    <task id="LOCAL-00020" summary="task 2">
+      <option name="closed" value="true" />
+      <created>1728153976719</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728153976719</updated>
+    </task>
+    <task id="LOCAL-00021" summary="task 3">
+      <option name="closed" value="true" />
+      <created>1728157695949</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728157695949</updated>
+    </task>
+    <task id="LOCAL-00022" summary="task 4">
+      <option name="closed" value="true" />
+      <created>1728158182306</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728158182306</updated>
+    </task>
+    <task id="LOCAL-00023" summary="task 4">
+      <option name="closed" value="true" />
+      <created>1728158825227</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728158825227</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="homework_4" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="homework_2" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="homework_3" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homework_4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add random to files)" />
+    <MESSAGE value="first homework" />
+    <MESSAGE value="task 1" />
+    <MESSAGE value="task 2" />
+    <MESSAGE value="task 3" />
+    <MESSAGE value="task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4" />
+  </component>
+</project>
