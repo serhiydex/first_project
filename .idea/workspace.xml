@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67dcb0bf-9ed8-4a9b-9e12-37f4e07756ae" name="Changes" comment="task 4" />
+    <list default="true" id="67dcb0bf-9ed8-4a9b-9e12-37f4e07756ae" name="Changes" comment="task 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_5/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/task_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +77,7 @@
     "Python.task_3.executor": "Run",
     "Python.task_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "homework__5",
     "last_opened_file_path": "/home/dex/PycharmProjects/first_project",
     "settings.editor.selected.configurable": "configurable.group.language"
   }
@@ -278,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728158825227</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1728160490829</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1728160490829</updated>
+    </task>
+    <task id="LOCAL-00025" summary="task 1">
+      <option name="closed" value="true" />
+      <created>1728160502836</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728160502836</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,19 +331,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="homework_4" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -332,10 +340,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add random to files)" />
     <MESSAGE value="first homework" />
-    <MESSAGE value="task 1" />
     <MESSAGE value="task 2" />
     <MESSAGE value="task 3" />
     <MESSAGE value="task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4" />
+    <MESSAGE value="task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1" />
   </component>
 </project>
